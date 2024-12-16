@@ -30,6 +30,8 @@ RUN wget -O /tmp/bepinex.zip https://github.com/BepInEx/BepInEx/releases/downloa
     && unzip /tmp/bepinex.zip -d . \
     && mkdir -p BepInEx/plugins/usr
 
+RUN chmod +x run_bepinex.sh
+
 # Install CitrusLib
 RUN wget -O BepInEx/plugins/Citruslib.dll https://github.com/CyrusTheLesser/Citruslib/releases/download/v0.7/Citruslib.dll
 
