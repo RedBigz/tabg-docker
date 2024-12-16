@@ -4,11 +4,11 @@ services:
         restart: unless-stopped
         container_name: server1
         volumes:
-            - ./data/game_settings.txt:/tabg-server/game_settings.txt
-            - ./data/ExtraSettings.json:/tabg-server/ExtraSettings.json
-            - ./data/Guestbook.txt:/tabg-server/Guestbook.txt
-            - ./data/PlayerPerms.json:/tabg-server/PlayerPerms.json
-            - ./data/Commands_List.txt:/tabg-server/Commands_List.txt
-            - ./data/plugins:/tabg-server/BepInEx/plugins/usr
-            - ./data/LootTables:/tabg-server/LootTables
+            - ./data/game_settings.txt:/tabg-server/game_settings.txt:rw
+            - ./data/ExtraSettings.json:/tabg-server/ExtraSettings.json:rw
+            - ./data/Guestbook.txt:/tabg-server/Guestbook.txt:rw
+            - ./data/PlayerPerms.json:/tabg-server/PlayerPerms.json:rw
+            - ./data/Commands_List.txt:/tabg-server/Commands_List.txt:rw
+            - ./data/plugins:/tabg-server/BepInEx/plugins/usr:rw
+            - ./data/LootTables:/tabg-server/LootTables:rw
         image: tabg-server
