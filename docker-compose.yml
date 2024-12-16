@@ -8,7 +8,6 @@ services:
             - ./data/ExtraSettings.json:/tabg-server/ExtraSettings.json:rw
             - ./data/Guestbook.txt:/tabg-server/Guestbook.txt:rw
             - ./data/PlayerPerms.json:/tabg-server/PlayerPerms.json:rw
-            - ./data/Commands_List.txt:/tabg-server/Commands_List.txt:rw
             - ./data/plugins:/tabg-server/BepInEx/plugins/usr:rw
             - ./data/LootTables:/tabg-server/LootTables:rw
         image: tabg-server
