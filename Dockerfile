@@ -2,7 +2,7 @@ FROM ubuntu:rolling
 
 # Dependencies
 RUN apt-get update \
-    && apt-get install -y unzip wget software-properties-common
+    && apt-get install -y unzip wget software-properties-common file
 
 RUN useradd -ms /bin/bash tabg
 
