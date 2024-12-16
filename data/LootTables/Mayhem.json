@@ -1,0 +1,3377 @@
+{
+  "name": "Mayhem",
+  "weight": 0.0100000007,
+  "index": 3,
+  "entries": [
+    {
+      "name": "Bandage",
+      "weight": 100.0,
+      "entries": [
+        {
+          "id": 131,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Med Kit",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 132,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common bloodlust",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 42,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common cardio",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 43,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common dash",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 44,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common health",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 45,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common ice",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 46,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common jump",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 47,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common poison",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 48,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common recycling",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 49,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common regeneration",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 50,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common relax",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 51,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common shield",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 52,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common speed",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 53,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common spray",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 54,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common storm",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 55,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common the hunt",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 56,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common vampire",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 57,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Common weapon mastery",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 58,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic battlecry",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 59,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic bloodlust",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 60,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic cardio",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 61,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic charge",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 62,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic dash",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 63,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic healing words",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 64,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic health",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 65,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic ice",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 66,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic jump",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 67,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic lit beats",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 68,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic poison",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 69,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic recycling",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 70,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic regeneration",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 71,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic relax",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 72,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic shield",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 73,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic small",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 74,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic speed",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 75,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic spray",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 76,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic storm call",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 77,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic storm",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 78,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic the hunt",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 79,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic vampire",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 80,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic weapon mastery",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 81,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Epic words of justice",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 82,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary battlecry",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 83,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary bloodlust",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 84,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary cardio",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 85,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary charge",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 86,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary dash",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 87,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary healing words",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 88,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary health",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 89,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary ice",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 90,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary jump",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 91,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary lit beats",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 92,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary poison",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 93,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary recycling",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 94,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary regeneration",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 95,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary relax",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 96,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary shield",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 97,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary speed",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 98,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary spray",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 99,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary storm call",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 100,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary storm",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 101,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary the hunt",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 102,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary vampire",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 103,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary weapon mastery",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 104,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Legendary words of justice",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 105,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare airstrike",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 106,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare bloodlust",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 107,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare cardio",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 108,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare dash",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 109,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare health",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 110,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare ice",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 111,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare insight",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 112,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare jump",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 113,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare lit beats",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 114,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare poison",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 115,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare pull",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 116,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare recycling",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 117,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare regeneration",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 118,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare relax",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 119,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare shield",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 120,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare speed",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 121,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare spray",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 122,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare storm",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 123,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare the hunt",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 124,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare vampire",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 125,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rare weapon mastery",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 126,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "The assassin",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 127,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "The mad mechanic",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 128,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

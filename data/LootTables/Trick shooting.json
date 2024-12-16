@@ -1,0 +1,55 @@
+{
+  "name": "Trick shooting",
+  "weight": 0.0100000007,
+  "index": 8,
+  "entries": [
+    {
+      "name": "",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 323,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 100.0,
+      "entries": [
+        {
+          "id": 164,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Bandage",
+      "weight": 100.0,
+      "entries": [
+        {
+          "id": 131,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Med Kit",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 132,
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

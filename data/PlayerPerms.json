@@ -1,0 +1,18 @@
+[
+  {
+    "name": "players",
+    "description": "List of players with modified permission level. defafult permission level is 0. commands can have different required permission levels, and the PL of players can even be lowered!",
+    "players": [
+      {
+        "name": "player name (does not need to be exact!)",
+        "epic": "epic goes here",
+        "permlevel": 1
+      },
+      {
+        "name": "player name (does not need to be exact!)",
+        "epic": "epic goes here",
+        "permlevel": 1
+      }
+    ]
+  }
+]

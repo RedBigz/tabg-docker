@@ -1,0 +1,71 @@
+COMMANDS LIST:
+
+======Citrus Lib======
+
+kills a player. if no player is specified it kills the user...!
+Perm Level: 1
+/kill <name>(optional)
+
+Gets the epic id of a player with the given name or index
+Perm Level: 1
+/epic <name>
+
+Gets the NAME of a player with the given byte playerindex.
+Perm Level: 1
+/name [id]
+
+Gets the permission status of the player
+Perm Level: 1
+/perm-get <player>
+
+Gets the ID of a player with the given name.
+Perm Level: 1
+/id <name>
+
+queries a player's position
+Perm Level: 1
+/get_pos <name>(optional)
+
+Starts the countdown timer
+Perm Level: 1
+/start [time]
+
+Sends the first player to the second player
+Perm Level: 2
+/send <player> <player>
+
+lists different things in the console.
+Perm Level: 2
+/list <teams|players|playerrefs|all>
+
+Changes or queries a player's team
+Perm Level: 2
+/team <get|set> <player> [index](if setting)
+
+teleports the specified player to the specified coordinates
+Perm Level: 2
+/send_pos <name> (x) (y) (z)
+
+teleports the player to the specified coordinates
+Perm Level: 2
+/goto_pos (x) (y) (z)
+
+Brings a player to the command user
+Perm Level: 2
+/bring <player>
+
+Brings the command user to the specified player
+Perm Level: 2
+/goto <player>
+
+gives the user an item with an optional amount
+Perm Level: 2
+/give [id] [amount(optional)]
+
+gives the user an item with an optional amount
+Perm Level: 2
+/gift <player> [id] [amount(optional)]
+
+SETS the permission status of the player!
+Perm Level: 4
+/perm-set <player>

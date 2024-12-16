@@ -1,0 +1,43 @@
+// Allowed word list for name / description: https://github.com/landfallgames/tabg-word-list
+// Name of the server
+ServerName=Default Server Name
+// Server Description
+ServerDescription=Description for server /n for new line
+//Port To Use
+Port=7777
+// max players on server. Max being 253
+MaxPlayers=70
+//Use Relay
+Relay=true
+// server wide auto teaming
+AutoTeam=false 
+//Password
+Password=
+// 0.0 - 1.0 percentage of cars to spawn. 0 being 0% and 1 being 100%. 
+CarSpawnRate=1.0 
+
+// Will start match with fewer then PlayersToStart if waited longer then ForceStartTime
+UseTimedForceStart=true 
+
+// Seconds until force start the countdown
+ForceStartTime=200.0
+
+// Players needed to start the force start timer
+MinPlayersToForceStart=2 
+
+// Players to start countdown
+PlayersToStart=2 
+
+// Seconds it takes to start the game after Players have joined or force start triggered
+Countdown=20.0
+
+// enable or disable the respawn minigame.
+AllowRespawnMinigame=true
+
+// SQUAD, DUO or SOLO
+TeamMode=SQUAD
+
+// Ehm..  Have fun
+GameMode=BattleRoyale
+//Leave This To False
+AntiCheat=false

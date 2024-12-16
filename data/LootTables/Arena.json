@@ -1,0 +1,181 @@
+{
+  "name": "Arena",
+  "weight": 0.05,
+  "index": 2,
+  "entries": [
+    {
+      "name": "Blessing of legendary dash",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 87,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Blessing of legendary speed",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 98,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 50.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "AA-12",
+      "weight": 40.0,
+      "entries": [
+        {
+          "id": 292,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "DoublebarrelShotgun",
+      "weight": 200.0,
+      "entries": [
+        {
+          "id": 294,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-500",
+      "weight": 200.0,
+      "entries": [
+        {
+          "id": 297,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Flying Blunderbuss",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 295,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Blunderbuss",
+      "weight": 60.0,
+      "entries": [
+        {
+          "id": 293,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-5000",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 298,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Rainmaker",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 300,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "The Arnold",
+      "weight": 140.0,
+      "entries": [
+        {
+          "id": 301,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-500_taser",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 299,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 296,
+          "amount": 1
+        },
+        {
+          "id": 296,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 20
+        }
+      ]
+    }
+  ]
+}

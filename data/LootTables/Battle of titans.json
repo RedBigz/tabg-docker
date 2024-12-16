@@ -1,0 +1,2085 @@
+{
+  "name": "Battle of titans",
+  "weight": 0.0100000007,
+  "index": 13,
+  "entries": [
+    {
+      "name": "",
+      "weight": 60.0,
+      "entries": [
+        {
+          "id": 89,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShotgunAmmo",
+      "weight": 50.0,
+      "entries": [
+        {
+          "id": 8,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "NormalAmmo",
+      "weight": 60.0,
+      "entries": [
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "BIGAmmo",
+      "weight": 50.0,
+      "entries": [
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "SmallAmmo",
+      "weight": 70.0,
+      "entries": [
+        {
+          "id": 9,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Musket Ammo",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 4,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Crossbow Ammo",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Taser Ammo",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 11,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "0.5xScope",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 20,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "2xScope",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 21,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "4xScope",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 22,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "8xScope",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 23,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Compensator",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 24,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Heavy Barrel",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 28,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Periscope",
+      "weight": 0.25,
+      "entries": [
+        {
+          "id": 36,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Periscope Barrel",
+      "weight": 0.25,
+      "entries": [
+        {
+          "id": 35,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Red Dot",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 38,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Suppressor",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 39,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Periscope",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 36,
+          "amount": 1
+        },
+        {
+          "id": 35,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Laser Sight",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 29,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "New_DoubleBarrel",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 30,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DamageAnalyzer",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 25,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "New_FastBulletsBarrel",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 31,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "New_MoreAccuracyBarrel",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 32,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "New_MoreFireRateBarrel",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 33,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "W_HealingBarrel001",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 26,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DamageAnalyzer",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 27,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 197,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Implosion Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 199,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 200,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Smoke Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 208,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Stun Grenade",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 212,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 210,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "DummyGrenade",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 195,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalStrikeGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 205,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 191,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley Grenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 215,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "WallGrenade",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 216,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "TNTGrenade",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 214,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "CageGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 192,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "OrbitalGrenade_Taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 204,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Splinter Grenade_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 211,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "LaunchPadGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 202,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ShieldGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 207,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "FireGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 196,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "HealingGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 198,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "SnowStormGrenade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 209,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "CluterDummy",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 194,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "ClusterGrenade",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 193,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BombardementGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 189,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BouncyNade",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 190,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "KnockBack Grenade2",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 201,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackHoleGrenade",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 188,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Big_Healing",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 187,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Bandage",
+      "weight": 100.0,
+      "entries": [
+        {
+          "id": 131,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Med Kit",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 132,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Katana",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 254,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Ballistic Shield",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 238,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Jarl Axe",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 252,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Sabre",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 258,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Viking Axe",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 262,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Rapier",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 256,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 259,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_Blinding light Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 221,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_HealingAura Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 224,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_SummonRockFix",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 226,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_Teleport Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 227,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_Track Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 228,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_Gust Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 223,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_SpeedAura Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 225,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Spell_Shockwave Variant",
+      "weight": 0.4,
+      "entries": [
+        {
+          "id": 222,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "AK-47",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 152,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "AUG",
+      "weight": 1.5,
+      "entries": [
+        {
+          "id": 153,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "M16",
+      "weight": 1.5,
+      "entries": [
+        {
+          "id": 160,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "MP-44",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 161,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "SCAR-H",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 162,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Mini Gun",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 178,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "name": "M1918-BAR",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 218,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "MG-42",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 220,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "name": "AKS-74U",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 302,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "M1a1-Thompson",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 307,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Mac-10",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 308,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "MP-40",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 309,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "MP5-K",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 310,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "P90",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 311,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "name": "PPSH-41",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 312,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 72
+        }
+      ]
+    },
+    {
+      "name": "UMP-45",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 314,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Vector",
+      "weight": 5.0,
+      "entries": [
+        {
+          "id": 315,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "name": "Mega Gun",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 177,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 250
+        }
+      ]
+    },
+    {
+      "name": "HandCannon",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 274,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Money Stack",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 180,
+          "amount": 1
+        },
+        {
+          "id": 3,
+          "amount": 300
+        },
+        {
+          "id": 3,
+          "amount": 300
+        },
+        {
+          "id": 3,
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "name": "Gangsta Mac",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 304,
+          "amount": 1
+        },
+        {
+          "id": 304,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 90
+        }
+      ]
+    },
+    {
+      "name": "Burstgun",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 155,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Liberating Mini Gun",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 176,
+          "amount": 1
+        },
+        {
+          "id": 176,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "name": "Browning M2",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 217,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 250
+        }
+      ]
+    },
+    {
+      "name": "Water Gun",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 185,
+          "amount": 1
+        },
+        {
+          "id": 12,
+          "amount": 200
+        }
+      ]
+    },
+    {
+      "name": "TaserMini Gun",
+      "weight": 0.02,
+      "entries": [
+        {
+          "id": 183,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "name": "HM-8RGR",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 158,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "M8",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 219,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Famas",
+      "weight": 4.1,
+      "entries": [
+        {
+          "id": 156,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Liberating M1a1-Thompson",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 306,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Liberating M16",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 159,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "BeamAR",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 154,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "AWPS-74U",
+      "weight": 0.0025,
+      "entries": [
+        {
+          "id": 303,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "Glockinator",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 305,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "name": "Crossbow pistol",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 265,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 6.0,
+      "entries": [
+        {
+          "id": 169,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 170,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 172,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 163,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 164,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 171,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "MGL",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 203,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "MissileLauncher",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 179,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Gaussbow",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 184,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Beretta 93R",
+      "weight": 12.0,
+      "entries": [
+        {
+          "id": 264,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Deagle",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 266,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Flintlock",
+      "weight": 8.0,
+      "entries": [
+        {
+          "id": 267,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "G18c",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 271,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Luger-P08",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 276,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "m1911",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 277,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Revolver",
+      "weight": 15.0,
+      "entries": [
+        {
+          "id": 280,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Taser",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 284,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Tec-9",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 313,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "HandCannon",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 274,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Hand Gun",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 273,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Hand Gun",
+      "weight": 0.005,
+      "entries": [
+        {
+          "id": 273,
+          "amount": 1
+        },
+        {
+          "id": 273,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 80
+        }
+      ]
+    },
+    {
+      "name": "SilverBaller",
+      "weight": 0.7,
+      "entries": [
+        {
+          "id": 283,
+          "amount": 1
+        },
+        {
+          "id": 283,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "Real Gun",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 278,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Really Big Deagle",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 279,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Liberating m1911",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 275,
+          "amount": 1
+        },
+        {
+          "id": 275,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "FutureRevolver",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 269,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Glue gun",
+      "weight": 0.0,
+      "entries": [
+        {
+          "id": 272,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Grapple",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 173,
+          "amount": 1
+        },
+        {
+          "id": 2,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "HandCannon",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 282,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Garand",
+      "weight": 4.0,
+      "entries": [
+        {
+          "id": 287,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Winchester-Model1873",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 291,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "M14",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 289,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "VSS",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 328,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "Liberating Garand",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 288,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "FAL",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 286,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "S7",
+      "weight": 0.25,
+      "entries": [
+        {
+          "id": 290,
+          "amount": 1
+        },
+        {
+          "id": 6,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "AA-12",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 292,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "DoublebarrelShotgun",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 294,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-500",
+      "weight": 10.0,
+      "entries": [
+        {
+          "id": 297,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Flying Blunderbuss",
+      "weight": 0.2,
+      "entries": [
+        {
+          "id": 295,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Blunderbuss",
+      "weight": 3.0,
+      "entries": [
+        {
+          "id": 293,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-5000",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 298,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Rainmaker",
+      "weight": 0.5,
+      "entries": [
+        {
+          "id": 300,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "name": "The Arnold",
+      "weight": 7.0,
+      "entries": [
+        {
+          "id": 301,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Mossberg-500_taser",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 299,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "",
+      "weight": 0.05,
+      "entries": [
+        {
+          "id": 296,
+          "amount": 1
+        },
+        {
+          "id": 296,
+          "amount": 1
+        },
+        {
+          "id": 8,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Kar98K",
+      "weight": 2.0,
+      "entries": [
+        {
+          "id": 321,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "AWP",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 317,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Barrett",
+      "weight": 0.3,
+      "entries": [
+        {
+          "id": 319,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "Musket",
+      "weight": 1.0,
+      "entries": [
+        {
+          "id": 323,
+          "amount": 1
+        },
+        {
+          "id": 4,
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "name": "Really Big Barrett",
+      "weight": 0.025,
+      "entries": [
+        {
+          "id": 325,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Liberating Barrett",
+      "weight": 0.015,
+      "entries": [
+        {
+          "id": 322,
+          "amount": 1
+        },
+        {
+          "id": 322,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "TwoShot",
+      "weight": 0.25,
+      "entries": [
+        {
+          "id": 327,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "name": "AWP_taser",
+      "weight": 0.02,
+      "entries": [
+        {
+          "id": 318,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "Musket_Taser",
+      "weight": 0.01,
+      "entries": [
+        {
+          "id": 324,
+          "amount": 1
+        },
+        {
+          "id": 11,
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "name": "BeamSniper",
+      "weight": 0.1,
+      "entries": [
+        {
+          "id": 320,
+          "amount": 1
+        },
+        {
+          "id": 9,
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "AWPS-74U",
+      "weight": 0.0025,
+      "entries": [
+        {
+          "id": 303,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 60
+        }
+      ]
+    }
+  ]
+}

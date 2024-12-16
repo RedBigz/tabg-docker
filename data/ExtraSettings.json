@@ -1,0 +1,22 @@
+[
+  {
+    "name": "suppress landlog",
+    "description": "Prevents most landfall debug messages from being written.",
+    "value": "False"
+  },
+  {
+    "name": "disable missing command parrot",
+    "description": "Disables the unknown command parrot response when tryping an unknown command",
+    "value": "False"
+  },
+  {
+    "name": "adminfilelocation",
+    "description": "filepath to a FOLDER where you want the PlayerPerms setting to be stored. Usefull when hosting multiple servers on the same computer leave blank to edit locally.",
+    "value": "server_config"
+  },
+  {
+    "name": "loot table location",
+    "description": "The FOLDER that will hold a loottables FOLDER inside of it, which, in turn, will hold the customizable loot tables. LEAVE BLANK for a local folder",
+    "value": "server_config"
+  }
+]

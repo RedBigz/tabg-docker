@@ -1,0 +1,41 @@
+{
+  "name": "Demolition",
+  "weight": 0.0100000007,
+  "index": 4,
+  "entries": [
+    {
+      "name": "",
+      "weight": 20.0,
+      "entries": [
+        {
+          "id": 203,
+          "amount": 1
+        },
+        {
+          "id": 1,
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "name": "Bandage",
+      "weight": 100.0,
+      "entries": [
+        {
+          "id": 131,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Med Kit",
+      "weight": 30.0,
+      "entries": [
+        {
+          "id": 132,
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}
