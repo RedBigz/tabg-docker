@@ -33,4 +33,4 @@ RUN wget -O /tmp/bepinex.zip https://github.com/BepInEx/BepInEx/releases/downloa
 # Install CitrusLib
 RUN wget -O BepInEx/plugins/Citruslib.dll https://github.com/CyrusTheLesser/Citruslib/releases/download/v0.7/Citruslib.dll
 
-ENTRYPOINT [ "./TABG.exe" ]
+ENTRYPOINT [ "./run_bepinex.sh", "./TABG.exe" ]
